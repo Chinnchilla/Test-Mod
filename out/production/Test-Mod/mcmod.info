@@ -1,0 +1,19 @@
+[
+   {
+      "modid":"testmod",
+      "name":"Test Mod",
+      "description":"Pahi's lets mod reboot",
+      "version":"1.0",
+      "mcversion":"1.7.10",
+      "url":"",
+      "updateUrl":"",
+      "authorList":[
+         "Chinnchilla"
+      ],
+      "credits":"",
+      "logoFile":"",
+      "screenshots":[
+
+      ]
+   }
+]
